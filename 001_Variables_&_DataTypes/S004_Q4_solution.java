@@ -11,7 +11,7 @@ long	- 64 bits (8 bytes)
 float	- 32 bits (4 bytes)
 double	- 64 bits (8 bytes)
 
-So, according to the Q4, the result variable will be of "double type" because oftype conversion.
+So, according to the Q4, the result variable will be of "double type" because of type conversion.
 */
 
 
