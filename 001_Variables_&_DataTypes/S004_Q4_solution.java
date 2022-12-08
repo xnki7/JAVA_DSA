@@ -6,7 +6,7 @@ boolean	-  1 bit
 byte	-  8 bits (1 byte)
 char	- 16 bits (2 bytes)
 short	- 16 bits (2 bytes)
-int	    - 32 bits (4 bytes)
+int	 - 32 bits (4 bytes)
 long	- 64 bits (8 bytes)
 float	- 32 bits (4 bytes)
 double	- 64 bits (8 bytes)
