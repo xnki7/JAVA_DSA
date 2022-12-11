@@ -1,4 +1,4 @@
-// QUESTION - Write a program to reverse a number entered by user.
+// QUESTION - Write a program to print the reverse of a number entered by user.
 
 import java.util.*;
 class HelloWorld {
